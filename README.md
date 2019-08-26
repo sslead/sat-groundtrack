@@ -1,2 +1,2 @@
 # sat-groundtrack
-This program plots a groundtrack of the TOPEX/Poseidon satellite using basemap.  
+This program calculates plots the groundtrack of a satellite's orbit using basemap.  
